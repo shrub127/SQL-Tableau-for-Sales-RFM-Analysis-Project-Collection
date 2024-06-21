@@ -1,7 +1,7 @@
 # SQL-Tableau-for-RFM-Sales-Analysis-
 
 # Executive Summary
-This exploration of sample sales data provides insights into customer behavior, product performance, and potential profitability. Utilizing SQL queries, we can analyze trends, identify top-selling products, and segment customers for targeted marketing strategies by implementing RFM analysis
+This exploration of sample sales data provides insights into customer behavior, product performance, and potential profitability. Utilizing SQL queries, we can analyze trends, identify top-selling products, and segment customers for targeted marketing strategies by implementing RFM analysis.
 
 # Business Problem
 Understanding customer buying patterns, product performance, and profitability is crucial for any business. This analysis aims to address these questions:
